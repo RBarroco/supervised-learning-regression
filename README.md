@@ -1,5 +1,5 @@
 If the project is not visible on github, you can use this link:</br>
-https://nbviewer.jupyter.org/github/RBarroco/supervised-learning-regression/blob/master/Project-3-Regression.ipynb
+https://nbviewer.jupyter.org/github/RBarroco/supervised-learning-regression/blob/master/Project-3-LinearRegression-final.ipynb
 
 # Linear Regression project, used cars price forecast
 
